@@ -1,0 +1,11 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+~$*
